@@ -8,8 +8,7 @@
 # Site settings
 title: Merch
 email: inallseriousness247@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Evant is SME start-up based in Singapore. We specialise in studying A-math as well as other difficult topics and not pass it in.The vision of our enterprise is to expand overseas and broaden our customer base to be able to do nothing at all
+description: > # this means to ignore newlines until "baseurl:" Evant is SME start-up based in Singapore. We specialise in studying A-math as well as other difficult topics and not pass it in.The vision of our enterprise is to expand overseas and broaden our customer base to be able to do nothing at all
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: i_am_evan01
