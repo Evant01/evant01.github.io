@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: WHO's EvAn
+permalink: /WHO's EvAn/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Follow me on instagram because you have no life 
+[evantan](https://www.instagram.com/i_am_evan01/?hl=en)
 
-You can find the source code for the Jekyll new theme at:
+You can find useful tips on being as cool as me on
 {% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+[howtobecoollikevantan](http://www.wikihow.com/Get-Your-Best-Friend-Back)
 
-You can find the source code for Jekyll at
+You can donate to charity (me) so i can buy new shoes @
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[www.helppoverty,com](https://www.youtube.com/watch?v=-Zy28mVeVZw)
