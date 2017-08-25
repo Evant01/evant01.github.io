@@ -12,5 +12,5 @@ You can find useful tips on being as cool as me on
 [howtobecoollikevantan](http://www.wikihow.com/Get-Your-Best-Friend-Back)
 
 You can donate to charity (me) so i can buy new shoes 
-{% include icon-github.html username="jekyll" %} /
+{% include icon-github.html username="jeff" %} /
 [www.helppoverty,com](https://www.youtube.com/watch?v=-Zy28mVeVZw)
